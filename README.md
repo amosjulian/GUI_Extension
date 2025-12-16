@@ -3,4 +3,4 @@ This project is a migrated and extended version of the original Simple GUI Exten
 
 # Installation DE
 
-# Installation US
+# Installation US/EN
