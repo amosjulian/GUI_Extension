@@ -10,7 +10,7 @@ Es wird vorausgesetzt, dass du BlueJ 5.X auf deinem System installiert hast.
    - **Windows:** `C:\Program Files\BlueJ\`  
    - **macOS:** `/Applications/BlueJ.app/Contents/Resources/Java/`  
    - **Linux:** `/usr/share/bluej/`  
-3. Kopiere die `.jar`-Datei nach `<BLUEJ_HOME>/lib/extensions2/`.  
+3. Kopiere die `.jar`-Datei nach `<BLUEJ_HOME>/lib/extensions2/` (unter macOS meistens `<BLUEJ_HOME>/extensions2/`).  
 4. Starte BlueJ. Die Extension sollte automatisch geladen werden. Sie ist zu finden unter `Werkzeuge -> Simple GUI Extension`.  
 
 # Installation EN
@@ -22,5 +22,5 @@ It is assumed that you have BlueJ 5.X installed on your system.
    - **Windows:** `C:\Program Files\BlueJ\`  
    - **macOS:** `/Applications/BlueJ.app/Contents/Resources/Java/`  
    - **Linux:** `/usr/share/bluej/lib/`  
-3. Copy the `.jar` file to `<BLUEJ_HOME>/lib/extensions2/`.  
+3. Copy the `.jar` file to `<BLUEJ_HOME>/lib/extensions2/` (usually `<BLUEJ_HOME>/extensions2/` on macOS).  
 4. Start BlueJ. The extension should load automatically. It can be found under `Tools -> Simple GUI Extension`.  
