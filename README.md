@@ -28,7 +28,10 @@ It is assumed that you have BlueJ 5.X installed on your system.
 # Java GUI-Klasse speichern DE
 Um in dieser Version von GUI-Extension die erstellte GUI in das BlueJ-Projekt einzubinden gehe auf `File-> Export Java Code`. Es wird empfohlen das GUI-Projekt vorher zu speichern (`File-> Save Project`).
 
+⚠️ Wenn in dem Projekt bereits eine GUI_project-Klasse existiert wird diese beim Esport überschrieben!
+
 # EN Export Java GUI-Class EN
 To integrate the created GUI into the BlueJ project in this version of GUI-Extension, go to `File-> Export Java Code`. It is recommended to save the GUI project beforehand (`File-> Save Project`).
 
+⚠️ If a GUI_project class already exists in the project, it will be overwritten during export!
 
