@@ -24,3 +24,6 @@ It is assumed that you have BlueJ 5.X installed on your system.
    - **Linux:** `/usr/share/bluej/lib/`  
 3. Copy the `.jar` file to `<BLUEJ_HOME>/lib/extensions2/` (usually `<BLUEJ_HOME>/extensions2/` on macOS).  
 4. Start BlueJ. The extension should load automatically. It can be found under `Tools -> Simple GUI Extension`.  
+
+# Java GUI-Klasse speichern
+Um in dieser Version von GUI-Extension die erstellte GUI in das BlueJ-Projekt einzubinden gehe auf `File-> Export Java Code`. Es wird empfohlen das GUI-Projekt vorher zu speichern (`File-> Save Project`).
